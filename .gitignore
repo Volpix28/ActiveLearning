@@ -5,3 +5,5 @@
 *.gif
 *.bmp
 *.svg
+dataset/.DS_Store
+dataset/cat_dog.csv
